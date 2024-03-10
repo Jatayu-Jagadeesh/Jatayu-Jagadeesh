@@ -1,4 +1,4 @@
-![logo](https://github.com/Jatayu-Jagadeesh/Jagadeesh/blob/main/1680866435349.jpeg)
+![logo]([https://github.com/Jatayu-Jagadeesh/Jagadeesh/blob/main/1680866435349.jpeg](https://github.com/Jatayu-Jagadeesh/Jatayu-Jagadeesh/blob/main/pic.png)
 <h1 align="center">Hi 👋, I'm Jagadeesh</h1>
 <h3 align="center">I have a clear, logical mind with a practical approach, seeking for a challenging opportunity to optimize business operations through technology and design thinking approach, problem-solving and leadership skills.</h3>
 
